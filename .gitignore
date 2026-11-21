@@ -35,4 +35,9 @@ env.bak/
 venv.bak/
 
 # VS Code
-.vscode/
+.vscode/.venv/
+node_modules/
+__pycache__/
+*.pyc
+.DS_Store
+.env
