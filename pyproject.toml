@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "mistral-ocr-gui"
 version = "0.4.0"
-authors = [{ name="Danielnara24" },]
+authors = [{ name="pandeyapransh911" },]
 description = "A graphical user interface for processing images with the Mistral OCR API."
 readme = "README.md"
 requires-python = ">=3.8"
@@ -25,7 +25,7 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/Danielnara24/Mistral-OCR"
+Homepage = "https://github.com/pandeyapransh911/Mistral-OCR"
 
 [project.gui-scripts]
 mistral-ocr = "mistral_ocr.gui:main"
